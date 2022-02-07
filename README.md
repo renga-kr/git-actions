@@ -1,1 +1,3 @@
-# git-actions
+# git-actions 
+
+Checking for context variables
